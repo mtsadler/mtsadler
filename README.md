@@ -6,3 +6,5 @@
 - I'm currently learning about data streaming, modeling, and visualization
 - I have experience with Python, airflow, dbt, flask, jinja2, SQL
 - I enjoy working on [open source projects](https://github.com/org-not-included)
+
+![GitHub Org's Stats](https://github-readme-stats.vercel.app/api?username=mtsadler&show_icons=true)
